@@ -1,8 +1,6 @@
 RSA Algorithm Implementation using python
 
-
-             Group Members
-      Name                       ID
+Group Members
 1. Gizaw Agodo               UGR/8917/12
 2. Adisu Motora              UGR/4230/12
 3. Haile Dereje              UGR/2190/12
