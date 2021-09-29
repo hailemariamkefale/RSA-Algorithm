@@ -15,7 +15,7 @@ import random
 from math import sqrt
 
 def gcd(a, b):
-    ''' Euclid's algorithm for determining the greatest common divisor '''
+    ''' Euclid's algorithm for determining the greatest common divisor  '''
     while b != 0:
         a, b = b, a % b
     return a
